@@ -22,6 +22,7 @@ gem "suspenders"
 gem "title"
 gem "uglifier"
 gem "feedjira"
+gem "faraday", "~> 0.9.2"
 
 group :development do
   gem "listen"
